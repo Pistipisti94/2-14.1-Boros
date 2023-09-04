@@ -1,0 +1,32 @@
+body
+{
+background-color: aqua;
+}
+header{
+    text-align: center;
+    text-decoration:underline;
+
+}
+table{
+    margin: auto;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    box-shadow: 5px 5px 0px 0px;
+    background-color: blue;
+}
+table,td,th{
+    border: 3px solid black;
+}
+th,td{
+    font-size: larger;
+    color: red;
+}
+td,tr{
+    background-color: green;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#nap{
+    background-color: bisque;
+}
