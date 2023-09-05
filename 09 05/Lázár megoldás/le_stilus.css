@@ -85,7 +85,9 @@ color: white;
 .kepalairas{
 text-align: center;
 font-size: 9px;
-
+word-break: break-word;
+width: 76px;
+margin: auto;
 }
 
 .szurke{
