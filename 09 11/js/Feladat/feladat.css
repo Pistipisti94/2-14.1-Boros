@@ -1,5 +1,14 @@
 .card{
-    margin: 5px auto;
-    border-radius: 0;
+    padding: 0px;
+    border-radius: 0px;
 }
-p{margin-bottom: -2px;}
+.card-header {
+    padding-bottom: 10px;
+}
+
+.card-body {
+    background-color: rgb(255, 220, 115);
+}
+p{
+    margin-bottom: 2px;
+}
