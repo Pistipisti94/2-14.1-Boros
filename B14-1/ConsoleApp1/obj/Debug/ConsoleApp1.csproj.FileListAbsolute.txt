@@ -1,0 +1,7 @@
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
