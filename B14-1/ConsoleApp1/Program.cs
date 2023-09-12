@@ -10,40 +10,37 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            bool szam = true;
-            bool szam2 = true;
-            int a = 0;
-            int b = 0;
+            
+            bool jo = false;
+            int a = 0, b = 0, szamA;
+            szamA = SzamotKer();
             Console.WriteLine("Kérek két egész számot");
             Console.WriteLine("Első szám: ");
-            while (szam)
+            while (jo != true)
             {
-                
                 a = Convert.ToInt32(Console.ReadLine());
                 if (a < 0 || a > 0)
                 {
-                    szam=false;
+                    jo = true;
                 }
                 else
                 {
                     Console.WriteLine("Első szám: ");
                 }
-                
             }
             Console.WriteLine("Második szám: ");
-            while (szam2)
+            jo = false;
+            while (jo != true)
             {
-
                 a = Convert.ToInt32(Console.ReadLine());
                 if (b < 0 || b > 0)
                 {
-                    szam2 = false;
+                    jo = true;
                 }
                 else
                 {
                     Console.WriteLine("Második szám: ");
                 }
-
             }
 
             b = Convert.ToInt32(Console.ReadLine());
@@ -52,6 +49,11 @@ namespace ConsoleApp1
             Console.WriteLine();
             Console.WriteLine("Bármelyik billenytűzet lenyomásával kiléphetsz.");
             Console.ReadKey();
+        }
+
+        private static int SzamotKer()
+        {
+
         }
     }
 }
