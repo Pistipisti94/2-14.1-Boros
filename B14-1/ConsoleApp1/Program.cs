@@ -10,50 +10,18 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            
-            bool jo = false;
-            int a = 0, b = 0, szamA;
-            szamA = SzamotKer();
-            Console.WriteLine("Kérek két egész számot");
-            Console.WriteLine("Első szám: ");
-            while (jo != true)
-            {
-                a = Convert.ToInt32(Console.ReadLine());
-                if (a < 0 || a > 0)
-                {
-                    jo = true;
-                }
-                else
-                {
-                    Console.WriteLine("Első szám: ");
-                }
-            }
-            Console.WriteLine("Második szám: ");
-            jo = false;
-            while (jo != true)
-            {
-                a = Convert.ToInt32(Console.ReadLine());
-                if (b < 0 || b > 0)
-                {
-                    jo = true;
-                }
-                else
-                {
-                    Console.WriteLine("Második szám: ");
-                }
-            }
-
-            b = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine($"Szám 1 = {a} meg szám 2 = {b} = " + (a+b));
-            Console.WriteLine();
-            Console.WriteLine("Bármelyik billenytűzet lenyomásával kiléphetsz.");
+            int szamA = SzamotKer("Adj meg egy számot: ");
+            int szamB = SzamotKer("Adj meg még egy számot: ");
+            Console.WriteLine($"Az első szám {szamA} + a második szám {szamB} = " + (szamA + szamB).ToString());
             Console.ReadKey();
         }
 
-        private static int SzamotKer()
+        private static int SzamotKer(string szoveg)
         {
-
+            int bekertSzam;
+            Console.WriteLine(szoveg);
+            bekertSzam = Convert.ToInt32(Console.ReadLine());
+            return bekertSzam;
         }
     }
 }
