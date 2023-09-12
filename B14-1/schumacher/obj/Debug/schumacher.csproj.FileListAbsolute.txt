@@ -1,0 +1,8 @@
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\bin\Debug\schumacher.csv
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\bin\Debug\schumacher.exe.config
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\bin\Debug\schumacher.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\bin\Debug\schumacher.pdb
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\obj\Debug\schumacher.csproj.AssemblyReference.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\obj\Debug\schumacher.csproj.CoreCompileInputs.cache
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\obj\Debug\schumacher.exe
+C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\schumacher\obj\Debug\schumacher.pdb
