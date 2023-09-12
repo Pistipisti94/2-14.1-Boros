@@ -25,6 +25,15 @@ namespace schumacher
 
         private static void feladatok5()
         {
+            Console.WriteLine("5. feladat: Hibastatisztika");
+            foreach (var item in adatIOs.FindAll(c => c.Position == 0).GroupBy(a => a.Status).Select(b => new {ok = b.Key, db = b.Count()}))
+            {
+                if (item.db > 2)
+                {
+                    Console.WriteLine($"\t{item.ok}: {item.db}");
+                }
+            }
+
         }
 
         private static void feladatok4()
