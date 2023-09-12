@@ -37,6 +37,7 @@ namespace schumacher
             {
                 Console.WriteLine(ex.Message);
             }
+            //Adatok kiiratása
             foreach (var item in adatIOs)
             {
                 Console.WriteLine(item.Grandprix);
