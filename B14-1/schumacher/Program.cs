@@ -15,17 +15,31 @@ namespace schumacher
             //Metódusok
             adatokBeolvasasa();
             feladatok3();
+            feladatok4();
+            feladatok5();
 
             Console.WriteLine("Program vége!");
             Console.ReadKey();
 
         }
+
+        private static void feladatok5()
+        {
+        }
+
+        private static void feladatok4()
+        {
+            Console.WriteLine("4. feladat: Magyar Nagydíj helyezései");
+            foreach (var item in adatIOs.FindAll(a => a.Grandprix.Equals("Hungarian Grand Prix")&&a.Position>0))
+            {
+                Console.WriteLine($"\t{item.Date.ToShortDateString()} : {item.Position}. hely");
+            }
+        }
+
         //A harmadik feladat metódus
         private static void feladatok3()
         {
             Console.WriteLine($"3. feladat: {adatIOs.Count} sort olvastunk be. ");
-            Console.WriteLine("4. feladat: Magyar Nagydíj helyezései");
-            Console.WriteLine($"\t");
         }
 
         private static void adatokBeolvasasa()
