@@ -6,3 +6,12 @@ C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\Berek2020\obj\Debu
 C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.csproj.CoreCompileInputs.cache
 C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.exe
 C:\Users\demeter.istvan.tamas\Desktop\Repo\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.pdb
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\bin\Debug\berek2020.txt
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\bin\Debug\Berek2020.exe.config
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\bin\Debug\Berek2020.exe
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\bin\Debug\Berek2020.pdb
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.csproj.AssemblyReference.cache
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.csproj.SuggestedBindingRedirects.cache
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.csproj.CoreCompileInputs.cache
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.exe
+C:\Users\pisti\Desktop\Iskola 2024\Boros Sándor\2-14.1-Boros\B14-1\Berek2020\obj\Debug\Berek2020.pdb
