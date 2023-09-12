@@ -25,7 +25,6 @@ namespace schumacher
         {
             Console.WriteLine($"3. feladat: {adatIOs.Count} sort olvastunk be. ");
             Console.WriteLine("4. feladat: Magyar Nagydíj helyezései");
-            while () { }
             Console.WriteLine($"\t");
         }
 
