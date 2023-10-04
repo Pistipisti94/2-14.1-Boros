@@ -1,0 +1,9 @@
+Listázza ki a 20-as részleg dolgozóinak nevét, belépési idejét, foglalkozását a nevek szerint csökkenően rendezve.
+
+SELECT ENAME,HIREDATE,JOB 
+FROM `emp` 
+WHERE DEPTNO = 20 
+ORDER BY ENAME DESC;
+
+Készítsen két listát, melyek a dolgozók adatait tartalmazzák. Az egyiket a fizetés szerint 
+növekvően, a másikat a fizetés szerint csökkenően rendezze. 
