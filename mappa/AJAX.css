@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+hr{
+    color: red;
+    width: 85%;
+    height: 10px;
+    background-color:brown ;
+    margin: 5px;
+}
+input{
+    margin: 5px;
+    box-shadow: 8px 6px;
+}
+.card{
+    margin: 1px;
+}
