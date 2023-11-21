@@ -16,7 +16,7 @@
 
 <body>
     <div class="container">
-        <form action="#">
+        <form action="#" id="formEleje">
             <div class="row">
                 <div class="form-group col-3">
                     <label for="id" class="form-label">id:</label>
@@ -28,12 +28,15 @@
                 </div>
                 <div class="form-group col-3">
                     <label for="darab" class="form-label">darab:</label>
-                    <input type="text" class="form-control" name="darab" id="darab">
-                </div>
+                    <input type="number" min="1" value="1" class="form-control" name="darab" id="darab">
+                </div>                
                 <hr>
             </div>
             <div class="row">
-                <button class="btn btn-primary" id="read">READ</button>
+                <button class="btn btn-outline-warning" id="create">CREATE</button>
+                <button class="btn btn-outline-primary" id="read">READ</button>
+                <button class="btn btn-outline-success" id="update">UPDATE</button>
+                <button class="btn btn-outline-danger" id="delete">DELETE</button>
                 <hr>
             </div>
         </form>
